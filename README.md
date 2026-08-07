@@ -15,26 +15,7 @@ This project is built using **React** and **Vite**, providing a fast, modern, an
 
 ---
 
-## 📂 Project Structure
 
-```
-project-name/
-├── public/
-│   └── favicon.ico
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── package.json
-├── vite.config.js
-├── eslint.config.js
-└── README.md
-```
-
----
 
 ## 📋 Prerequisites
 
