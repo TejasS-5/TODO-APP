@@ -1,6 +1,6 @@
 # React + Vite
 
-This project is built using **React** and **Vite**, providing a fast, modern, and efficient development environment for creating responsive web applications. Vite offers lightning-fast startup times, Hot Module Replacement (HMR), and optimized production builds, making it an excellent choice for React development.
+This project is built using *React* and *Vite*, providing a fast, modern, and efficient development environment for creating responsive web applications. Vite offers lightning-fast startup times, Hot Module Replacement (HMR), and optimized production builds, making it an excellent choice for React development.
 
 ## 🚀 Features
 
