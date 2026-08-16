@@ -13,7 +13,7 @@ This project is built using *React* and *Vite*, providing a fast, modern, and ef
 - 🛠️ ESLint configured for code quality
 - 🌐 Cross-platform compatibility
 
----
+----
 
 
 
@@ -53,7 +53,7 @@ Install dependencies:
 npm install
 ```
 
----
+----
 
 ## ▶️ Running the Development Server
 
@@ -71,7 +71,7 @@ http://localhost:5173
 
 Vite automatically reloads the browser whenever you save changes.
 
----
+----
 
 ## 🏗️ Building for Production
 
@@ -83,7 +83,7 @@ npm run build
 
 The compiled files will be generated inside the `dist/` folder.
 
----
+----
 
 ## 👀 Preview the Production Build
 
@@ -93,7 +93,7 @@ To preview the production version locally:
 npm run preview
 ```
 
----
+----
 
 ## 🧹 Linting
 
@@ -103,7 +103,7 @@ Run ESLint to check your code for errors and maintain consistent coding standard
 npm run lint
 ```
 
----
+----
 
 ## 📦 Available Scripts
 
@@ -115,7 +115,7 @@ npm run lint
 | `npm run preview` | Preview production build |
 | `npm run lint` | Run ESLint |
 
----
+----
 
 ## ⚛️ React + Vite Plugins
 
@@ -133,7 +133,7 @@ This plugin uses **Babel** to enable:
 Repository:
 https://github.com/vitejs/vite-plugin-react
 
----
+----
 
 ### 2. @vitejs/plugin-react-swc
 
@@ -149,7 +149,7 @@ Benefits include:
 Repository:
 https://github.com/vitejs/vite-plugin-react-swc
 
----
+----
 
 ## 🔥 Why Vite?
 
@@ -163,7 +163,7 @@ Vite has become one of the most popular frontend build tools because it provides
 - Excellent React integration
 - Better developer experience compared to older bundlers
 
----
+----
 
 ## 🎯 Technologies Used
 
@@ -174,7 +174,7 @@ Vite has become one of the most popular frontend build tools because it provides
 - CSS3
 - ESLint
 
----
+----
 
 ## 🌐 Browser Support
 
@@ -186,7 +186,7 @@ This project supports all modern browsers, including:
 - Safari
 - Opera
 
----
+----
 
 ## 🤝 Contributing
 
@@ -215,13 +215,13 @@ git push origin feature-name
 
 5. Open a Pull Request
 
----
+----
 
 ## 📄 License
 
 This project is licensed under the MIT License.
 
----
+----
 
 ## 🙌 Acknowledgements
 
@@ -231,6 +231,6 @@ This project is licensed under the MIT License.
 - SWC
 - Open Source Community
 
----
+----
 
 Happy Coding! 🚀
