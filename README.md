@@ -137,7 +137,7 @@ https://github.com/vitejs/vite-plugin-react
 
 ### 2. @vitejs/plugin-react-swc
 
-This plugin uses **SWC (Speedy Web Compiler)** instead of Babel...
+This plugin uses **SWC (Speedy Web Compiler)** instead of Babel.
 
 Benefits include:
 
