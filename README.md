@@ -185,7 +185,6 @@ This project supports all modern browsers, including:
 - Microsoft Edge
 - Safari
 - Opera
-
 ----
 
 ## 🤝 Contributing
